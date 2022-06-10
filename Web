@@ -1,0 +1,12 @@
+1. HHTP is hyper. text markup language. Its how we get or send data to server.
+2. URL is an address
+3. DNS is how the system makes a url into ip addresses.
+4. Query string is a key value pair in the url.
+5.Get, gets data from server
+Post, sends data to serve
+6.HTTP request is a request from a computer to server
+7.HTTP response is a response from the server.
+8.Headers provide additional information about the request or the response. Here are some examples:
+Request headers: Host, User-Agent, Accept, Cookie, Cache-Control
+Response headers: Content-Type, Last-Modified, Set-Cookie, Cache-Control
+9.The browser will turn it into an ip address and access it from the server to display.
